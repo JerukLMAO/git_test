@@ -1,3 +1,3 @@
 # git_test
-repo pertama coy aowkoakwoakowk
+Repo pertama coy aowkoakwoakowk
 Hello Odin!
